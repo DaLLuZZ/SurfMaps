@@ -22,11 +22,11 @@
     },
     {
       "level": 1,
-      "url": "/GOKZReplayViewer/resources/materials/skybox/sky_cs15_daylight03_hdrdn.vtf/mip1.png"
+      "url": "https://raw.githubusercontent.com/DaLLuZZ/SurfMaps/main/materials/skybox/sky_cs15_daylight03_hdrdn.vtf/mip1.png"
     },
     {
       "level": 0,
-      "url": "/GOKZReplayViewer/resources/materials/skybox/sky_cs15_daylight03_hdrdn.vtf/mip0.png"
+      "url": "https://raw.githubusercontent.com/DaLLuZZ/SurfMaps/main/materials/skybox/sky_cs15_daylight03_hdrdn.vtf/mip0.png"
     }
   ]
 }
